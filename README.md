@@ -17,7 +17,7 @@
 ## 📄 Resume
 
 Feel free to check out my latest resume here:  
-👉 [View My Resume (PDF)](https://github.com/mdm-islam/mdm-islam/raw/main/Md-Islam.pdf.pdf)
+👉 [Click here to view my Resume (PDF)](./Md%20Islam.pdf)
 
 ---
 
