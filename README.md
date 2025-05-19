@@ -14,6 +14,13 @@
 
 ---
 
+## 📄 Resume
+
+Feel free to check out my latest resume here:  
+👉 [View My Resume (PDF)](https://github.com/mdm-islam/mdm-islam/raw/main/resume-md-islam.pdf)
+
+---
+
 ### 🚀 Tech Stack
 
 ```bash
@@ -24,9 +31,6 @@
 ⚙️  Dev Tools:    Git | Linux | Postman | VS Code 
 🌐 Networking:    Cisco 
 
-## 📄 Resume
 
-Feel free to check out my latest resume here:  
-👉 [Download Resume (PDF)](https://github.com/mdm-islam/mdm-islam/raw/main/resume-md-islam.pdf)
 
 -->
