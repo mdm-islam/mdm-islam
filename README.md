@@ -24,6 +24,8 @@ Feel free to check out my latest resume here:
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdislam7-blue?logo=linkedin)](https://www.linkedin.com/in/mdislam7)
 
+---
+
 ### 🚀 Tech Stack
 
 ```bash
