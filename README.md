@@ -21,6 +21,9 @@ Feel free to check out my latest resume here:
 
 ---
 
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdislam7-blue?logo=linkedin)](https://www.linkedin.com/in/mdislam7)
+
 ### 🚀 Tech Stack
 
 ```bash
@@ -30,9 +33,5 @@ Feel free to check out my latest resume here:
 🗄️  Database:     PostgreSQL | MySQL
 ⚙️  Dev Tools:    Git | Linux | Postman | VS Code | Dockers
 🌐 Networking:    Cisco 
-
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdislam7-blue?logo=linkedin)](https://www.linkedin.com/in/mdislam7)
-
 
 -->
