@@ -31,6 +31,8 @@ Feel free to check out my latest resume here:
 ⚙️  Dev Tools:    Git | Linux | Postman | VS Code | Dockers
 🌐 Networking:    Cisco 
 
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdislam7-blue?logo=linkedin)](https://www.linkedin.com/in/mdislam7)
 
 
 -->
