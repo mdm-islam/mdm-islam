@@ -28,7 +28,7 @@ Feel free to check out my latest resume here:
 🖥️  Frontend:     HTML | CSS | Bootstrap | React
 🛠️  Backend:      Node.js | Flask | Express.js 
 🗄️  Database:     PostgreSQL | MySQL
-⚙️  Dev Tools:    Git | Linux | Postman | VS Code 
+⚙️  Dev Tools:    Git | Linux | Postman | VS Code | Dockers
 🌐 Networking:    Cisco 
 
 
