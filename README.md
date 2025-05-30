@@ -1,4 +1,4 @@
-![Screenshoot](IMG_0116.png)
+
 <h1 align="center">Hi, I'm Md Islam 👋</h1>
 
 <p align="center">
